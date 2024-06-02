@@ -1,0 +1,64 @@
+,Name,Type,Mass,Radius,Flux,Tsurf,Period,Distance,ESI
+0, Teegarden's Star b,M-Warm Terran,? 1.05,~ 1.02,1.15,~ 298,4.9,12.0,0.95
+1, TOI-700 d,M-Warm Terran,~ 1.57,1.14,0.87,~ 278,37.4,101.0,0.93
+2, Kepler-1649 c,M-Warm Terran,~ 1.20,1.06,1.23,~ 303,19.5,301.0,0.92
+3, TRAPPIST-1 d,M-Warm Subterran,0.39,0.78,1.12,~ 296,4.0,41.0,0.91
+4, LP 890-9 c (N),M-Warm Terran,—,1.37,0.91,~ 281,8.5,106.0,0.89
+5, Proxima Cen b,M-Warm Terran,? 1.27,~ 1.08,0.7,~ 257,11.2,4.2,0.87
+6, K2-72 e,M-Warm Terran,~ 2.21,1.29,1.3,~ 307,24.2,217.0,0.87
+7, GJ 1002 b (N),M-Warm Terran,? 1.08,~ 1.03,0.67,~ 261,10.3,16.0,0.86
+8, GJ 1061 d,M-Warm Terran,? 1.64,~ 1.15,0.69,~ 247,13.0,12.0,0.86
+9, GJ 1061 c,M-Warm Terran,? 1.74,~ 1.18,1.45,~ 311,6.7,12.0,0.86
+10, Ross 128 b,M-Warm Terran,? 1.40,~ 1.11,1.48,~ 317,9.9,11.0,0.86
+13, TRAPPIST-1 e,M-Warm Terran,0.69,0.92,0.65,~ 258,6.1,41.0,0.85
+11, GJ 273 b,M-Warm Terran,? 2.89,~ 1.51,1.06,~ 292,18.6,12.0,0.85
+12, Kepler-296 e,M-Warm Terran,~ 2.96,1.52,1.0,~ 282,34.1,544.0,0.85
+14, Kepler-442 b,K-Warm Terran,~ 2.36,1.35,0.7,~ 263,112.3,1193.0,0.84
+1, Kepler-62 e,K-Warm Superterran,—,1.61,1.15,~ 298,122.4,981.0,0.83
+2, Kepler-1652 b,M-Warm Superterran,~ 3.18,1.60,0.84,~ 276,38.1,822.0,0.83
+0, Kepler-452 b,G-Warm Superterran,~ 3.31,1.63,1.11,~ 295,384.8,1799.0,0.83
+5, GJ 667 C c,M-Warm Superterran,≥ 3.81,~ 1.77,0.88,~ 278,28.1,24.0,0.8
+4, Kepler-1410 b,K-Warm Superterran,~ 3.81,1.78,1.07,~ 293,60.9,1196.0,0.8
+3, Wolf 1061 c,M-Warm Superterran,≥ 3.41,~ 1.66,1.3,~ 306,17.9,14.0,0.8
+6, Kepler-1544 b,K-Warm Superterran,~ 3.81,1.78,0.84,~ 276,168.8,1092.0,0.79
+7, Kepler-283 c,K-Warm Superterran,~ 3.97,1.82,0.89,~ 280,92.7,1526.0,0.79
+8, Ross 508 b (N),M-Warm Superterran,≥ 4.00,~ 1.83,1.32,~ 302,10.8,37.0,0.77
+15, GJ 667 C f,M-Warm Terran,? 2.54,~ 1.45,0.56,~ 249,39.0,24.0,0.76
+9, Kepler-1638 b,G-Warm Superterran,~ 4.16,1.87,1.39,~ 312,259.3,4973.0,0.76
+10, Kepler-440 b,K-Warm Superterran,~ 4.13,1.91,1.44,~ 308,101.1,981.0,0.75
+11, GJ 433 d,M-Warm Superterran,≥ 5.22,~ 2.14,1.06,~ 292,36.1,30.0,0.74
+12, Kepler-1653 b,K-Warm Superterran,~ 5.34,2.17,1.04,~ 291,140.3,2461.0,0.74
+14, K2-332 b,M-Warm Superterran,~ 5.47,2.20,1.17,~ 299,17.7,402.0,0.73
+13, Kepler-705 b,M-Warm Superterran,~ 5.09,2.11,0.77,~ 269,56.1,903.0,0.73
+15, Kepler-155 c,M-Warm Superterran,~ 5.66,2.24,1.05,~ 291,52.7,957.0,0.73
+16, TOI-2257 b,M-Warm Superterran,~ 5.43,2.20,0.74,~ 254,35.2,188.0,0.72
+18, Kepler-22 b,G-Warm Superterran,—,2.38,1.1,~ 294,289.9,635.0,0.71
+17, Kepler-443 b,K-Warm Superterran,~ 6.04,2.35,0.89,~ 279,177.7,2615.0,0.71
+19, Kepler-1701 b,K-Warm Superterran,~ 5.56,2.22,1.42,~ 314,169.1,1904.0,0.71
+22, K2-9 b,M-Warm Superterran,~ 5.69,2.25,1.45,~ 316,18.4,270.0,0.7
+20, K2-18 b,M-Warm Superterran,8.92,2.37,1.26,~ 303,32.9,124.0,0.7
+23, GJ 180 c,M-Warm Superterran,≥ 6.40,~ 2.41,0.78,~ 270,24.3,39.0,0.7
+21, Kepler-1606 b,G-Warm Superterran,~ 4.93,2.07,1.64,~ 325,196.4,2710.0,0.7
+25, Kepler-1540 b,K-Warm Superterran,~ 6.77,2.49,0.78,~ 270,125.4,799.0,0.69
+24, GJ 163 c,M-Warm Superterran,≥ 6.80,~ 2.50,1.25,~ 304,25.6,49.0,0.69
+26, Kepler-174 d,K-Warm Superterran,~ 5.43,2.19,0.59,~ 252,247.4,1254.0,0.68
+17, TRAPPIST-1 f,M-Warm Terran,1.04,1.04,0.37,~ 225,9.2,41.0,0.68
+16, Kepler-62 f,K-Warm Terran,—,1.41,0.41,~ 230,267.3,981.0,0.68
+18, Teegarden's Star c,M-Warm Terran,? 1.11,~ 1.04,0.37,~ 225,11.4,12.0,0.68
+28, Kepler-296 f,M-Warm Superterran,~ 3.91,1.80,0.44,~ 229,63.3,544.0,0.66
+27, HD 40307 g,K-Warm Superterran,≥ 7.09,~ 2.57,0.67,~ 256,197.8,42.0,0.66
+29, HIP 38594 b,M-Warm Superterran,≥ 8.10,~ 2.77,1.34,~ 308,60.7,58.0,0.65
+30, K2-288 B b,M-Warm Superterran,~ 4.26,1.91,0.44,~ 234,31.4,214.0,0.65
+31, HD 216520 c,K-Warm Superterran,≥ 9.44,~ 3.04,1.28,~ 305,154.4,64.0,0.63
+32, GJ 3293 d,M-Warm Superterran,≥ 7.60,~ 2.67,0.59,~ 251,48.1,66.0,0.63
+33, LHS 1140 b,M-Warm Superterran,6.38,1.64,0.36,~ 222,24.7,49.0,0.62
+19, Kepler-1229 b,M-Warm Terran,~ 2.54,1.40,0.32,~ 217,86.8,865.0,0.62
+20, Kepler-186 f,M-Warm Terran,~ 1.71,1.17,0.29,~ 212,129.9,579.0,0.61
+21, GJ 667 C e,M-Warm Terran,? 2.54,~ 1.45,0.3,~ 213,62.2,24.0,0.6
+34, GJ 357 d,M-Warm Superterran,≥ 6.10,~ 2.34,0.38,~ 226,55.7,31.0,0.58
+23, TRAPPIST-1 g,M-Warm Terran,1.32,1.13,0.25,~ 204,12.4,41.0,0.58
+22, GJ 1002 c (N),M-Warm Terran,? 1.36,~ 1.10,0.26,~ 205,21.2,16.0,0.58
+35, GJ 682 b,M-Warm Superterran,≥ 4.40,~ 1.94,0.31,~ 215,17.5,16.0,0.57
+36, GJ 229 A c,M-Warm Superterran,≥ 8.57,~ 2.87,0.44,~ 228,121.9,19.0,0.56
+38, GJ 514 b (N),M-Warm Superterran,≥ 5.20,~ 2.13,0.27,~ 199,140.4,25.0,0.52
+37,GJ 180 d,M-Warm Superterran,≥ 7.56,~ 2.66,0.26,~ 205,106.3,39.0,0.48
